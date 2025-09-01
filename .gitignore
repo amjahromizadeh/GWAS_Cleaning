@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# But keep Python files
+!*.py
+
+# Also keep the .gitignore itself
+!.gitignore
+
+# Optional: keep README or other small docs
+!README.md
+
+!*/
